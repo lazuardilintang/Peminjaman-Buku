@@ -21,4 +21,5 @@
 ![Screenshot (232)](https://user-images.githubusercontent.com/89636741/154041174-bda2760a-cf06-451f-ad90-d539cce10675.png)
 ![Screenshot (233)](https://user-images.githubusercontent.com/89636741/154041244-4be611bb-0293-4fb3-a651-6712ad72aa7b.png)
 ### Vidio Pengunaan
-[![Everything Is AWESOME](https://user-images.githubusercontent.com/89636741/154041135-77b624e1-a679-4b83-8acc-c7f2b31e2b0d.png)](https://youtu.be/GxTC_uebBuo "Everything Is AWESOME")
+[![Screenshot (235)](https://user-images.githubusercontent.com/89636741/154049943-6ce6a3e0-9a8a-49a8-acf2-324e0754032d.png)](https://youtu.be/GxTC_uebBuo "Everything Is AWESOME")
+
